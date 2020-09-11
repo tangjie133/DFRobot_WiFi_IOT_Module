@@ -1,5 +1,6 @@
 # DFRobot_WiFi_IoT_Module
 
+This library enables the Wifi IoT module to access IoT platforms like IFTTT, BeeBotte and Easy_IoT, SIot, and ThingSpeak.
 
 ![正反面svg效果图]()
 
@@ -7,16 +8,11 @@
    
 ## Table of Contents
 
-* [Summary](#summary)
 * [Installation](#installation)
 * [Methods](#methods)
 * [Compatibility](#compatibility)
 * [History](#history)
 * [Credits](#credits)
-
-## Summary
-
-This library enables the Wifi IoT module to access IoT platforms like IFTTT, BeeBotte and Easy_IoT, SIot, and ThingSpeak.
  
 ## Installation
 
