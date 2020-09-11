@@ -4,9 +4,6 @@
 ![正反面svg效果图]()
 
 
-## Product Link（链接到英文商城）
-    SKU：NULL
-    name：WiFi_IoT_Module
    
 ## Table of Contents
 
